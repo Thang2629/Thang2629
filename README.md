@@ -1,11 +1,9 @@
-
-
-<h1 align="center">Hi, I'm Thang Duong 👋</h1>
+<h1 align="center">Hi, I'm Dương Quốc Thắng 👋</h1>
 <h3 align="center">Frontend Engineer → Fullstack | Building products with AI-assisted workflows</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/duongquocthang2011/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:duongquocthang2629@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="[your-blog-or-notes-repo-link]"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=markdown&logoColor=white" /></a>
 </p>
 
@@ -84,5 +82,5 @@
 
 ### 📫 Let's Connect
 
-- LinkedIn: [linkedin.com/in/your-linkedin](link)
-- Email: [your-email]
+- LinkedIn: [linkedin.com/in/duongquocthang2011](https://www.linkedin.com/in/duongquocthang2011/)
+- Email: duongquocthang2629@gmail.com
